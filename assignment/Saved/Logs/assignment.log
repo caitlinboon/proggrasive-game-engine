@@ -1179,3 +1179,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.17-17.47.54:036][856]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.04.17-17.47.54:036][856]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2023.04.17-17.47.57:063][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.17-17.48.54:450][505]LogSlate: Took 0.001078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
